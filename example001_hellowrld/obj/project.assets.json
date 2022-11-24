@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Антон\\.nuget\\packages\\": {}
+    "C:\\Users\\UnexpectedError\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Антон\\3474\\C#_education\\example001_hellowrld\\example001_hellowrld.csproj",
+      "projectUniqueName": "D:\\C#_EDU\\C-Education\\example001_hellowrld\\example001_hellowrld.csproj",
       "projectName": "example001_hellowrld",
-      "projectPath": "C:\\Users\\Антон\\3474\\C#_education\\example001_hellowrld\\example001_hellowrld.csproj",
-      "packagesPath": "C:\\Users\\Антон\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Антон\\3474\\C#_education\\example001_hellowrld\\obj\\",
+      "projectPath": "D:\\C#_EDU\\C-Education\\example001_hellowrld\\example001_hellowrld.csproj",
+      "packagesPath": "C:\\Users\\UnexpectedError\\.nuget\\packages\\",
+      "outputPath": "D:\\C#_EDU\\C-Education\\example001_hellowrld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Антон\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\UnexpectedError\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
